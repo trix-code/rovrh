@@ -1,0 +1,126 @@
+th {
+
+text-align: center;
+
+
+}
+
+table{
+
+text-align: center;
+width: 100%;
+ border-radius: 10px;
+}
+
+h1{
+  text-align: center;
+  border: 2px solid black;
+  border-radius: 20px;
+  background-color:  rgb(255, 230, 255);
+  
+}
+
+h2{
+  font-size: 25px;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+  font-size: 20px;
+
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+p{
+
+  font-size: 8px;
+  text-align: center;
+}
+
+th{
+
+  outline: 0px solid black;
+  font-size: 20px;
+  border-radius: 10px;
+}
+td{
+
+  border-radius: 2px ;
+  text-align: center;
+  outline: 2px solid black;
+
+ 
+}
+
+td :hover{
+	
+	 transition:0.3sec;
+	 box-shadow: 0px 10px 25px rgba(0,0,0,0.5);
+	}
+.THI,.it,.www{
+
+background-color: rgb(153, 230, 255);
+
+}
+.obed{
+background: rgb(255, 204, 179);
+}
+
+.matika{
+  background: rgb(255, 171, 255);
+}
+.ani{
+ background: rgb(204, 230, 255); 
+}
+.cj{
+  background: rgb(255, 128, 128);
+ }
+
+ .zmv,.env,.zpv{
+  background: rgb(230, 204, 153);
+ }
+ 
+ .af{
+  background: rgb(179, 179, 128);
+ }
+
+.aj{
+  background: rgb(203, 255, 224);
+ }
+ 
+ .zsv{
+  background: rgb(179, 230, 230);
+ }
+ 
+  .uvod{
+  background: rgb(255, 255, 128);
+ }
+ 
+ .vp{
+  background: rgb(204, 179, 255);
+ }
+ 
+ .tv{
+  background: rgb(153, 179, 255);
+ }
+ 
+ .uav{
+  background: rgb(255, 230, 255););
+ }
+ 
+ .eko{
+  background: rgb(255, 179, 179);
+ }
+ 
+ .szsv{
+  background: rgb(179, 230, 230);
+ }
+ 
+  .aph{
+  background: rgb(144, 224, 128);
+ }
+ 
+  .dvk{
+  background: rgb(255, 230, 230);
+ }
